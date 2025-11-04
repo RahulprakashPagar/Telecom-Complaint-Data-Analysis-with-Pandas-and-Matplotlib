@@ -1,7 +1,7 @@
-# Comcast-Telecom-Consumer-Complaints-Analysis
+# Comcast Telecom-Consumer Complaints Analysis
 A data analysis project that explores customer complaints received by Comcast, identifying major complaint types, trends, and state-wise resolutions using Python data analysis and visualization techniques.
 
-# 📞 Comcast Telecom Consumer Complaints — Data Analytics Project
+# 📞 Comcast Telecom Consumer Complaints : Data Analytics Project
 
 This project analyzes consumer complaints received by **Comcast**, a U.S. telecommunications company.  
 The goal is to identify trends in complaint frequency, types, and resolution efficiency across states, helping to pinpoint key service issues and areas for improvement.
