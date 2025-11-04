@@ -1,4 +1,3 @@
-# Comcast-Telecom-Consumer-Complaints-Course-end-Project-1
 # Comcast-Telecom-Consumer-Complaints-Analysis
 A data analysis project that explores customer complaints received by Comcast, identifying major complaint types, trends, and state-wise resolutions using Python data analysis and visualization techniques.
 
